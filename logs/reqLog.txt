@@ -1,0 +1,6 @@
+20251120	13:44:00	ceec5f27-1abe-4d93-bafe-67e0d6d8cef0	/index	GET
+20251120	13:44:00	4fe8b2cc-4f76-4cc2-9fc5-4d62d68e1ad4	/css/style.css	GET
+20251120	13:44:12	121b9c30-0bb7-4b23-9b85-18767aaa9fd2	/data/data.json	GET
+20251120	13:44:19	45d8716c-ba52-443d-8bed-09aa36bcc743	/data/data.json	GET
+20251120	13:45:27	b8455427-bece-4c71-9308-f72ff933a3d4	/data/data.json	GET
+20251120	13:45:38	78817cfe-d851-40f0-969a-f51bb759e695	/data/data.json	GET
